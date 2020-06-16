@@ -1,14 +1,10 @@
 ---
-templateKey: 'product-page'
+heading: Section
 path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+templateKey: product-page
+title: Services
+image: /img/1039991.jpg
+description: Section
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -39,63 +35,44 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: |
+    Section
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Section
+  description: |
+    Section
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/frame_000_delay-0.02s.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Section
+    image: /img/frame_000_delay-0.04s.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Section
+    image: /img/images.png
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+  - author: Section
+    quote: Section
+  - author: Section
+    quote: Section
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  description: Section
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Section
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
+        - Section
       plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+      price: "50"
+    - description: "Great for "
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
+        - Section
       plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+      price: "80"
+    - description: Section
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - Section
       plan: Custom
-      price: '??'
+      price: ??
 ---
