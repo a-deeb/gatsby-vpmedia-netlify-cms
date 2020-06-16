@@ -12,7 +12,13 @@ mainpitch:
 description: "At VisionPlayMedia we deliver outstanding results across 3 key
   business areas: branding, web design, and digital marketing."
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/1039991.jpg
+      text: Sample
+    - image: /img/1039991.jpg
+      text: Sample
+    - image: /img/1039991.jpg
+      text: Sample
   heading: VisionPlayMedia
   description: >-
     
