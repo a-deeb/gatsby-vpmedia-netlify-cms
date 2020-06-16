@@ -6,7 +6,13 @@ title: Services
 image: /img/1039991.jpg
 description: Section
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/1039991.jpg
+      text: Sample
+    - image: /img/1039991.jpg
+      text: Sample
+    - image: /img/1039991.jpg
+      text: Sample
   heading: What we offer
   description: |
     Section
