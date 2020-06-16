@@ -1,21 +1,16 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Vision Play Media
+image: /img/93fa7d96b0e3d2254a7998eae1f19041.jpg
+heading: Vision Play Media
+subheading: Toronto Based Software Solutions Agency
 mainpitch:
-  title: Why Kaldi
+  title: Vision Play Media
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    At VisionPlayMedia we deliver outstanding results across 3 key business
+    areas: branding, web design, and digital marketing.
+description: "At VisionPlayMedia we deliver outstanding results across 3 key
+  business areas: branding, web design, and digital marketing."
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -47,10 +42,8 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    At VisionPlayMedia we deliver outstanding results across 3 key business
+    areas: branding, web design, and digital marketing.
 main:
   heading: Great coffee with no compromises
   description: >
