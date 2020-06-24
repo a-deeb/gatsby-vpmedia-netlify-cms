@@ -13,12 +13,14 @@ description: "At VisionPlayMedia we deliver outstanding results across 3 key
   business areas: branding, web design, and digital marketing."
 intro:
   blurbs:
-    - image: /img/1039991.jpg
-      text: Sample
-    - image: /img/1039991.jpg
-      text: Sample
-    - image: /img/1039991.jpg
-      text: Sample
+    - image: /img/web-developer.jpg
+      text: Project Management
+    - image: /img/hire-expert-web-developer.jpg
+      text: Application Development
+    - image: /img/1_hp-yfksmzsj711ilbm8eew.jpeg
+      text: UI & UI Design
+    - image: /img/marketing-strategy-.jpg
+      text: Marketing
   heading: VisionPlayMedia
   description: >-
     
