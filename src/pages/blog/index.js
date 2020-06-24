@@ -10,7 +10,7 @@ export default class BlogIndexPage extends React.Component {
         <div
           className="full-width-image-container margin-top-0"
           style={{
-            backgroundImage: `url('/img/blog-index.jpg')`,
+            backgroundImage: `url('/img/93fa7d96b0e3d2254a7998eae1f19041.jpg')`,
           }}
         >
           <h1
@@ -21,7 +21,7 @@ export default class BlogIndexPage extends React.Component {
               padding: '1rem',
             }}
           >
-            Latest Stories
+            VisionPlayMedia Blog
           </h1>
         </div>
         <section className="section">
