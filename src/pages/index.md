@@ -16,11 +16,15 @@ intro:
     - image: /img/web-developer.jpg
       text: Project Management
     - image: /img/hire-expert-web-developer.jpg
-      text: Application Development
-    - image: /img/1_hp-yfksmzsj711ilbm8eew.jpeg
-      text: UI & UI Design
-    - image: /img/marketing-strategy-.jpg
-      text: Marketing
+      text: Application & Web Development
+    - image: /img/hire-expert-web-developer.jpg
+      text: UI & UX Design
+    - image: /img/hire-expert-web-developer.jpg
+      text: Social Media Marketing
+    - image: /img/hire-expert-web-developer.jpg
+      text: IT Security
+    - image: /img/hire-expert-web-developer.jpg
+      text: Database administration
   heading: VisionPlayMedia
   description: >-
     
