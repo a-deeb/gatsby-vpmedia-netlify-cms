@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Vision Play Media - React JS Learning
 date: 2020-07-03T21:56:55.233Z
-description: A curated list of **free resources** to master React Development
+description: A curated list of free resources to master React Development
 featuredpost: true
 featuredimage: /img/9eabf5872786c8da03b1be2804c4b85f383f2e3a.png
 tags:
