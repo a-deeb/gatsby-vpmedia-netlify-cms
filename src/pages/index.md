@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Vision Play Media
 image: /img/93fa7d96b0e3d2254a7998eae1f19041.jpg
-heading: Vision Play Media
+heading: Toronto Based Software Solutions Agency
 subheading: Toronto Based Software Solutions Agency
 mainpitch:
   title: "VisionPlayMedia "
